@@ -97,7 +97,7 @@
 .carousel-indicators{
     position:absolute;
     bottom:10px;
-    left:30%;
+    left:50%;
     z-index:15;
     width:60%;
     padding-left:0;
