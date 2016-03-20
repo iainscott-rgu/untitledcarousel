@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Bootstrap Example</title>
+    <title>Picture Slider</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="bootstrap.min.css">
@@ -31,19 +31,19 @@
         <!-- Wrapper for slides -->
         <div class="carousel-inner" role="listbox">
             <div class="item active">
-                <img src="img/1.jpg" alt="Chania" width="460" height="345">
+                <img src="img/1.jpg" width="460" height="345">
             </div>
 
             <div class="item">
-                <img src="img/2.jpg" alt="Chania" width="460" height="345">
+                <img src="img/2.jpg" width="460" height="345">
             </div>
 
             <div class="item">
-                <img src="img/3.jpg" alt="Flower" width="460" height="345">
+                <img src="img/3.jpg" width="460" height="345">
             </div>
 
             <div class="item">
-                <img src="img/4.jpg" alt="Flower" width="460" height="345">
+                <img src="img/4.jpg" width="460" height="345">
             </div>
         </div>
 
