@@ -77,6 +77,7 @@
     top:0;
     bottom:0;
     left:0;
+    right:0;
     width:15%;
     font-size:20px;
     color:orange;
@@ -92,7 +93,7 @@
     left:auto;
 }
 .carousel-control:focus,.carousel-control:hover {
-    color: #000000;
+    color: orange;
     text-decoration: none;
 }
 .carousel-indicators{
