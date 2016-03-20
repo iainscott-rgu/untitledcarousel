@@ -11,6 +11,7 @@
     position:relative
 }
 .carousel-inner{
+    align-content: center;
     position:relative;
     width:100%;
     overflow:hidden
