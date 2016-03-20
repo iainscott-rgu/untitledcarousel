@@ -10,7 +10,7 @@
     <style>
         .carousel-inner > .item > img,
         .carousel-inner > .item > a > img {
-            width: 50%;
+            width: 70%;
             margin: auto;
         }
     </style>
