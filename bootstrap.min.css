@@ -6,38 +6,23 @@
 body{
     background-color: #f8f8ff;
 }
+.table{
 
 
-.table5{
-    border: 1px solid orange;
-    padding: 25px;
-    background-color: #f8f8ff;
-    -moz-border-radius:10px;
-    -webkit-border-radius: 10px;
-    -khtml-border-radius: 10px;
-    border-radius: 10px;
-    color: #666699;
-    margin-left: 2%;
-    width: 700px;
-}
 
-#mycarousel{
-    border: 1px solid orange;
-    padding: 25px;
-    background-color: #f8f8ff;
-    -moz-border-radius:10px;
-    -webkit-border-radius: 10px;
-    -khtml-border-radius: 10px;
-    border-radius: 10px;
-    color: #666699;
-    margin-left: auto;
-    margin-right: auto;
-    width: 960px;
+
 }
 .container{
     width:600px;
     margin-left: auto;
     margin-right: auto;
+    border: 1px solid orange;
+    padding: 25px;
+    background-color: #f8f8ff;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -khtml-border-radius: 10px;
+    border-radius: 10px;
 }
 .carousel{
     position:relative
