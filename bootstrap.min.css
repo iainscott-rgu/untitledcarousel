@@ -93,10 +93,6 @@ h1{
     right:0;
     left:auto;
 }
-.carousel-control:hover {
-    color: orange;
-    text-decoration: none;
-}
 .carousel-indicators{
     position:absolute;
     bottom:10px;
