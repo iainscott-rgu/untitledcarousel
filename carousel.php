@@ -49,10 +49,10 @@
         </div>
 
         <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
-            <span class="sr-only"><img src="img/next3.png"></span>
+            <span class="sr-only"><img src="img/previous3.png"></span>
         </a>
         <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
-            <span class="sr-only"><img src="img/previous3.png"></span>
+            <span class="sr-only"><img src="img/next3.png"></span>
         </a>
     </div>
 </div>
