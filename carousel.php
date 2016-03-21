@@ -51,10 +51,10 @@
 
         <!-- Left and right controls -->
         <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
-            <span class="sr-only">&#8678;&nbsp;Previous</span>
+            <span class="sr-only"><img src="img/previous.png"></span>
         </a>
         <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
-            <span class="sr-only">Next&nbsp;&#8680;</span>
+            <span class="sr-only"><img src="img/next.png"></span>
         </a>
     </div>
 </div>
