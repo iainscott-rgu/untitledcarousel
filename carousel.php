@@ -17,9 +17,8 @@
 </head>
 <body>
 
-<p><h1>theB&Bhub Picture Carousel!!!</h1></p>
-
 <div class="container">
+    <p><h1>theB&Bhub Picture Carousel!!!</h1></p>
     <br>
     <div id="myCarousel" class="carousel slide" data-ride="carousel">
 
